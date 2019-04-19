@@ -1,0 +1,1 @@
+export let 设置延迟调用: (方法: Function, 时间: Number) => Number
